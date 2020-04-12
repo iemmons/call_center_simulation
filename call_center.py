@@ -41,3 +41,4 @@ if __name__ == '__main__':
     print(statistics.mean(wait_times))
     print(statistics.variance(wait_times))
 
+
